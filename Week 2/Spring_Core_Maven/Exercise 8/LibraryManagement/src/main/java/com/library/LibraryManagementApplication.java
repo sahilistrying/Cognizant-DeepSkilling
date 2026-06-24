@@ -1,0 +1,17 @@
+﻿package com.library;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+import com.library.service.BookService;
+public class LibraryManagementApplication {
+    public static void main(String[] args) {
+        System.out.println("=== Running Exercise 8: Implementing Basic AOP with Spring ===");
+        ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+        System.out.println("[Main] Spring context loaded.\n");
+        BookService bookService = (BookService) context.getBean("bookService");
+        bookService.addService();
+        System.out.println();
+        bookService.removeService();
+        System.out.println("\n=== Exercise 8 Completed Successfully ===\n");
+    }
+}
+
