@@ -1,9 +1,9 @@
-﻿# Week 3: Spring REST using Spring Boot
+﻿# Week 3: Advanced Spring REST & Data Integration
 
 ### Executive Summary
-This module advances into building robust RESTful web services utilizing Spring Boot. The architecture emphasizes stateless communication, standardized HTTP method utilization, and seamless JSON serialization. 
-* **Spring REST:** Implementation of scalable API endpoints and request mapping.
-* **Spring Boot:** Auto-configuration and embedded server deployment for enterprise microservices.
+This module focuses on the development of scalable RESTful web services and backend integration. The architecture emphasizes stateless communication and efficient data persistence handling.
+* **Spring REST:** Implementation of robust API endpoints and structured request mapping.
+* **Architecture:** Adherence to MVC design principles for clean separation of concerns.
 
 ---
 *Engineered by Sahil Hussain | CVR College of Engineering*
