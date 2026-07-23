@@ -1,7 +1,7 @@
 ﻿# Cognizant Deep-Skilling Program
 
-### 👤 Trainee Profile
-* **Name:** Sahil Hussain
+### 👤 Profile
+* **Name:** Shaik Safiullah Sahil Hussain
 * **Superset ID:** 7861343
 * **Email:** sahil24072005@gmail.com
 * **Institution:** CVR College of Engineering
@@ -25,3 +25,4 @@
 * **Code Cleanliness:** All modules strictly adhere to enterprise-grade style guidelines, heavily refactored for self-documenting code architecture (zero inline/legacy comments).
 * **Design Principles:** Structural, creational, and behavioral design patterns are systematically applied across the backend ecosystem.
 * **Separation of Concerns:** Strict decoupling between persistence, business logic, and presentation layers.
+
